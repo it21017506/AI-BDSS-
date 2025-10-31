@@ -1,0 +1,8 @@
+Mongo sales 
+
+user name: predictionpro25_db_user
+password : svVSBpZJSbSmtPKF
+
+svVSBpZJSbSmtPKF
+
+mongodb+srv://predictionpro25_db_user:svVSBpZJSbSmtPKF@sales.q38zqvg.mongodb.net/?retryWrites=true&w=majority&appName=sales
